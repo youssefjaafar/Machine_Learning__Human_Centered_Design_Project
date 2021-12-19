@@ -6,3 +6,4 @@ we chose our final solution to be an application that allows users to write in t
 set personal goals, get personalized recommendations, and track their overall mental health. Afterwards, we developed the Machine Learning aspect of the chosen prototype,
 where we tried several models for sentiment analysis, compared results, and concluded. We then again asked for real-world user feedback and concluded with mentioning our future
 plans.
+Machine Learning: text-based emotion detection using support vector machines, TF-IDF vectorizer, Neural Networks, GloveVector as word embeddings, Long Short Term Memory.
