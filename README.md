@@ -1,5 +1,5 @@
 # Machine_Learning__Human_Centered_Design_Project
-People are suffering every day, with external and internal factors constantly pressuring them to function through madness. 
+Many People are suffering every day, with external and internal factors constantly pressuring them to function through madness. 
 This makes their mental and emotional health prone to trouble, and it is our job to listen to their concerns and engineer new methods to help them; 
 hence help our community altogether.  After defining 3 different Prototypes to solve the problem under study and getting user feedback on each, 
 we chose our final solution to be an application that allows users to write in their journals (to be sentimentally analyzed later),
